@@ -1,32 +1,32 @@
-\# Sistema de IA
+\*Sistema de IA\*
 
 
 
-\## Descripcion
+\*Descripcion\*
 
 Este proyecto es una practica que simula un sistema chiquito de inteligencia artificial. Incluye un modelo, una funcion de inferencia y un archivo de configuracion. Se usa Git para guardar el historial de cambios y GitHub para compartir el proyecto.
 
 
 
-\## Objetivo
+\*Objetivo\*
 
 Aprender a usar Git y GitHub para trabajar en un proyecto de forma ordenada: crear commits, usar ramas y colaborar mediante Pull Requests.
 
 
 
-\## Componentes
+\*Componentes\*
 
-\- Modelo: archivo modelo.py, donde se define el modelo y su version.
+\- Modelo: archivo modelo.py, donde se define el modelo y su version
 
-\- Inferencia: archivo inferencia.py, con una funcion que simula una prediccion.
+\- Inferencia: archivo inferencia.py, con una funcion que simula una prediccion
 
-\- Configuracion: archivo config.txt, con los datos basicos del modelo.
+\- Configuracion: archivo config.txt, con los datos basicos del modelo
 
-\- Documentacion: este README y el archivo arquitectura.txt.
+\- Documentacion: este README y el archivo arquitectura.txt
 
 
 
-\## Tecnologias
+\*Tecnologias\*
 
 \- Git
 
@@ -36,7 +36,13 @@ Aprender a usar Git y GitHub para trabajar en un proyecto de forma ordenada: cre
 
 
 
-\## Autora
+\*Autora\*
 
 Ana Sofia Verdin Amezcua
+
+
+
+\*Estado del proyecto\*
+
+Prototipo inicial
 
